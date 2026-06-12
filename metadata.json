@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD EMA Bot Workspace",
+  "description": "A high-performance trading dashboard, simulator, and MQL5 EA code generator for XAUUSD (Gold) using dual split-lot EMA crossover, pullback, and continuation strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
